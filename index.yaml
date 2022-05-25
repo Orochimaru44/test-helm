@@ -11,4 +11,16 @@ entries:
     urls:
     - https://github.com/Orochimaru44/test-helm/releases/download/app1-0.1.0/app1-0.1.0.tgz
     version: 0.1.0
-generated: "2022-05-25T08:20:43.136784+05:30"
+  test:
+  - annotations:
+      appType: Application
+    apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-05-25T08:34:04.734767+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 739d294f4d9e5c39b94eaae3558f02d6a7ca35c2ea9e6a9d5789e0f91d19a418
+    name: test
+    urls:
+    - https://github.com/Orochimaru44/test-helm/releases/download/test-0.1.0/test-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-05-25T08:34:04.734798+05:30"
